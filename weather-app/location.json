@@ -1,0 +1,270 @@
+{
+    "url":"https://api.mapbox.com/geocoding/v5/mapbox.places/kolkata.json?access_token=pk.eyJ1IjoiYmF0NDg2NTUiLCJhIjoiY2thdzU4czVrMGZoczJxbzdlZng0djRpdiJ9.f8enBBAheKJv5TCvWeqooA",
+    "type": "FeatureCollection",
+    "query": [
+    "kolkata"
+    ],
+    "features": [
+    {
+    "id": "place.9463250992133310",
+    "type": "Feature",
+    "place_type": [
+    "place"
+    ],
+    "relevance": 1,
+    "properties": {
+    "wikidata": "Q1348"
+    },
+    "text": "Kolkata",
+    "place_name": "Kolkata, West Bengal, India",
+    "bbox": [
+    88.1917191409683,
+    22.4209181552283,
+    88.4544740192928,
+    22.679873568309
+    ],
+    "center": [
+    88.33778,
+    22.54111
+    ],
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    88.33778,
+    22.54111
+    ]
+    },
+    "context": [
+    {
+    "id": "district.8680984024647180",
+    "wikidata": "Q2088496",
+    "text": "Kolkata"
+    },
+    {
+    "id": "region.6831585069612590",
+    "short_code": "IN-WB",
+    "wikidata": "Q1356",
+    "text": "West Bengal"
+    },
+    {
+    "id": "country.9973599353579250",
+    "short_code": "in",
+    "wikidata": "Q668",
+    "text": "India"
+    }
+    ]
+    },
+    {
+    "id": "poi.781684072614",
+    "type": "Feature",
+    "place_type": [
+    "poi"
+    ],
+    "relevance": 1,
+    "properties": {
+    "landmark": true,
+    "address": "110/N23",
+    "category": "bengali restaurant, bengali food, indian restaurant, indian food, restaurant"
+    },
+    "text": "Kolkata House",
+    "place_name": "Kolkata House, 110/N23, Hyderabad, Telangana, India",
+    "center": [
+    78.364563,
+    17.472269
+    ],
+    "geometry": {
+    "coordinates": [
+    78.364563,
+    17.472269
+    ],
+    "type": "Point"
+    },
+    "context": [
+    {
+    "id": "locality.8668119103341120",
+    "text": "Kondapur"
+    },
+    {
+    "id": "place.8665397588538170",
+    "wikidata": "Q1361",
+    "text": "Hyderabad"
+    },
+    {
+    "id": "district.10941152205568970",
+    "wikidata": "Q15388",
+    "text": "Rangareddi"
+    },
+    {
+    "id": "region.13404011859269350",
+    "short_code": "IN-TG",
+    "wikidata": "Q677037",
+    "text": "Telangana"
+    },
+    {
+    "id": "country.9973599353579250",
+    "short_code": "in",
+    "wikidata": "Q668",
+    "text": "India"
+    }
+    ]
+    },
+    {
+    "id": "poi.876173402369",
+    "type": "Feature",
+    "place_type": [
+    "poi"
+    ],
+    "relevance": 1,
+    "properties": {
+    "landmark": true,
+    "address": "IB-193 Broadway Road Sector III, Salt Lake City",
+    "category": "hospital, clinic, medical center",
+    "maki": "hospital"
+    },
+    "text": "Columbia Asia Hospital Salt Lake",
+    "place_name": "Columbia Asia Hospital Salt Lake, IB-193 Broadway Road Sector III, Salt Lake City, Bidhan Nagar, West Bengal, India",
+    "matching_text": "Kolkata",
+    "matching_place_name": "Kolkata, IB-193 Broadway Road Sector III, Salt Lake City, Bidhan Nagar, West Bengal, India",
+    "center": [
+    88.412702,
+    22.572598
+    ],
+    "geometry": {
+    "coordinates": [
+    88.412702,
+    22.572598
+    ],
+    "type": "Point"
+    },
+    "context": [
+    {
+    "id": "locality.11368887304369520",
+    "text": "Sector 3"
+    },
+    {
+    "id": "place.2980688156491690",
+    "wikidata": "Q796739",
+    "text": "Bidhan Nagar"
+    },
+    {
+    "id": "district.12962865333419440",
+    "wikidata": "Q338425",
+    "text": "24 Paraganas North"
+    },
+    {
+    "id": "region.6831585069612590",
+    "short_code": "IN-WB",
+    "wikidata": "Q1356",
+    "text": "West Bengal"
+    },
+    {
+    "id": "country.9973599353579250",
+    "short_code": "in",
+    "wikidata": "Q668",
+    "text": "India"
+    }
+    ]
+    },
+    {
+    "id": "poi.317827670498",
+    "type": "Feature",
+    "place_type": [
+    "poi"
+    ],
+    "relevance": 1,
+    "properties": {
+    "landmark": true,
+    "address": "Netaji Subhash Chandra Bose International Airport",
+    "category": "airport",
+    "maki": "airport"
+    },
+    "text": "Kolkata Airport Domestic Terminal",
+    "place_name": "Kolkata Airport Domestic Terminal, Netaji Subhash Chandra Bose International Airport, Kolkata, West Bengal, India",
+    "center": [
+    88.440012,
+    22.64268
+    ],
+    "geometry": {
+    "coordinates": [
+    88.440012,
+    22.64268
+    ],
+    "type": "Point"
+    },
+    "context": [
+    {
+    "id": "locality.3406375705544780",
+    "text": "Dumdum"
+    },
+    {
+    "id": "place.9463250992133310",
+    "wikidata": "Q1348",
+    "text": "Kolkata"
+    },
+    {
+    "id": "district.12962865333419440",
+    "wikidata": "Q338425",
+    "text": "24 Paraganas North"
+    },
+    {
+    "id": "region.6831585069612590",
+    "short_code": "IN-WB",
+    "wikidata": "Q1356",
+    "text": "West Bengal"
+    },
+    {
+    "id": "country.9973599353579250",
+    "short_code": "in",
+    "wikidata": "Q668",
+    "text": "India"
+    }
+    ]
+    },
+    {
+    "id": "poi.678604855763",
+    "type": "Feature",
+    "place_type": [
+    "poi"
+    ],
+    "relevance": 1,
+    "properties": {
+    "landmark": true,
+    "address": "",
+    "category": "asian restaurant, asian food, restaurant"
+    },
+    "text": "Kolkata Kachchi",
+    "place_name": "Kolkata Kachchi, Dhaka, Dhaka, Bangladesh",
+    "center": [
+    90.374663,
+    23.785823
+    ],
+    "geometry": {
+    "coordinates": [
+    90.374663,
+    23.785823
+    ],
+    "type": "Point"
+    },
+    "context": [
+    {
+    "id": "place.1406769746840860",
+    "wikidata": "Q1354",
+    "text": "Dhaka"
+    },
+    {
+    "id": "region.9273407036840860",
+    "short_code": "BD-C",
+    "wikidata": "Q330158",
+    "text": "Dhaka"
+    },
+    {
+    "id": "country.12864299506797340",
+    "short_code": "bd",
+    "wikidata": "Q902",
+    "text": "Bangladesh"
+    }
+    ]
+    }
+    ],
+    "attribution": "NOTICE: © 2020 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+    }
