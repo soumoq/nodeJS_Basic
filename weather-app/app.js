@@ -1,12 +1,7 @@
-console.log("starting");
+const request = require('request');
 
+const url="http://api.weatherstack.com/current?access_key=334ae39f7298e2962e8a400062089eb8&query=kolkata";
 
-setTimeout(()=>{
-    console.log('2 sec');
-},2000);
-
-setTimeout(()=>{
-    console.log('0 sec');
-},0);
-
-console.log("stoping");
+request({ url: url, json:true },(error,response)=>{
+    console.log(response.body.current);
+});
